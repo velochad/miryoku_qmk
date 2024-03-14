@@ -21,6 +21,9 @@
 
 /* Pointing device configuration. */
 
+// Enable auto-mouse layer.
+#define AUTO_MOUSE_THRESHOLD
+
 // Enable use of pointing device on slave split.
 #define SPLIT_POINTING_ENABLE
 
